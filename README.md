@@ -1,11 +1,11 @@
 # FINAL PROJECT
 
-### Welcome to a comprehensive repository of research by the W.A.L.K. institute for computing and information.
+### Welcome to a comprehensive repository of research by the W.A.L.K. institute
 
-W on't
+**W** on't
 
-A ctually
+**A** ctually
 
-L earn 
+**L** earn 
 
-K oding!
+**K** oding
